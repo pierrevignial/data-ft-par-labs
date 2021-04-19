@@ -26,6 +26,7 @@ The player must decide where to place his ships on the board, then decide each t
 ## Workflow
 Outline the workflow you used in your project. What are the steps you went through?
 We first had a brainstorming session to get a general idea of how tto go about this, then I made a draft forn the board setup, which allowed Mathilde and Marc to proceed with the game's logic functions. Having made all the functions necessary for the game to work, it was a quick affair to tie it all together into the working game within a few lines.
+We did not end up using all the functions, but it gave us a solid base.
 
 ## Organization
 How did you organize your work? Did you use any tools like a trello or kanban board?
